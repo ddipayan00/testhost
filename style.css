@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body{
+    background: url("./550417.jpg") no-repeat;
+
+}
+#heading{
+    text-align: center;
+    color: antiquewhite;
+    background-color: brown;
+    text-shadow:2px 2px 4px burlywood;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+#welcome{
+    margin-left: 50px;
+    text-shadow:1px 1px 4px whitesmoke;
+}
+.main{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #cccccc;
+}
+.book{
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
+   
+}
